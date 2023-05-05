@@ -11,7 +11,7 @@
 </head>
 <body>
     <table class="table" border="1px" style="text-align: center;">
-        <h1>Pessoa</h1>
+        <h1>Pessoas</h1>
         <thead class="thead-dark">
           <tr>
             <th scope="col">CPF</th>
